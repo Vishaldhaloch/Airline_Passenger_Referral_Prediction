@@ -112,10 +112,6 @@ We welcome contributions! If you have ideas for improvements or spot any issues,
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](https://github.com/chetanp2002/Airline-Passenger-Referral-Prediction/blob/main/LICENSE). Feel free to use and adapt the code for your needs.
-
 ---
 
 ## 🙌 Acknowledgments
@@ -125,5 +121,3 @@ This project is licensed under the [MIT License](https://github.com/chetanp2002/
 
 ---
 
-### 🔗 Connect
-For questions or suggestions, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/data-scientist-chetan/) or [GitHub](https://github.com/chetanp2002).
